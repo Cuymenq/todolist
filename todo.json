@@ -1,0 +1,31 @@
+{
+    "Todo":[
+        {
+            "title": "Housework",
+            "description": "Clean the house up",
+            "chores": {
+                "Sweep and Mop":" Sweep and mop the floors" ,
+                "Clean the Dishes": "Make sure you rinse and wash the dishes",
+                "Trash": "Sort the trash and take it out"
+            }
+        },
+        {
+            "title": "Laundry",
+            "description": "Do the laundry",
+            "chores": {
+                "Get Clothes": "Separate the clothes and pack them up",
+                "Get Detergent/Fabric Softener": "Make sure we have that stuff"
+
+            }
+        },
+        {
+            "title": "Grind Baby, Grind",
+            "description": "Play some vidya games with the boys",
+            "chores": {
+                "Play Fortnite": "Level up in fortnite and do your challenges",
+                "Play Minecraft": "Mine for diamonds",
+                "Play Valorant": "Be bad and have NA aim"
+            }
+        }
+    ]
+}
